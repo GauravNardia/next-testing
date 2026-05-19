@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
        Hello World from Next.js
-       <p>I love you Gaurav 2</p>
+       <p>I love you Gaurav 5 in byoc</p>
     </div>
   );
 }
